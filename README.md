@@ -2,11 +2,11 @@
 
 <p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=rollands-bot&show_icons=true&locale=en&layout=compact" alt="rollands-bot" /></p>
 
-<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=rollands-bot&" alt="rollands-bot" /></p>
+<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=rollands-bot&" alt="rollands-bot" color="none"/></p>
 
 <p align="left">
 <a href="https://linkedin.com/in/~ wahyudiyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="~ wahyudiyanto" height="20" width="30" /></a>
-<a href="https://discord.gg/Rollands~Bot#3344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rollands~Bot#3344" height="10" width="20" /></a>
+<a href="https://discord.gg/Rollands~Bot#3344" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Rollands~Bot#3344" height="20" width="30" /></a>
 </p>
 
 <h6 align="left">Languages and Tools:</h6>
