@@ -2,7 +2,7 @@
 
 <p><img align="start" src="https://github-readme-stats.vercel.app/api/top-langs?username=rollands-bot&show_icons=true&locale=en&layout=compact" alt="rollands-bot" /></p>
 
-<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=rollands-bot&" alt="rollands-bot" fill="141321" stroke-opacity="0"/></p>
+<p><img align="start" src="https://github-readme-streak-stats.herokuapp.com/?user=rollands-bot&" alt="rollands-bot" fill="#141321"/></p>
 
 <p align="left">
 <a href="https://linkedin.com/in/~ wahyudiyanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="~ wahyudiyanto" height="20" width="20" /></a>
