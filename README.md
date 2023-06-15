@@ -1,5 +1,4 @@
 <h4 align="start">Hi 👋, I'm Way</h4>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rollands-bot&label=Profile%20views&color=0e75b6&style=flat" alt="rollands-bot" /> </p>
 
 <h6 align="left">Connect with me:</h6>
 <p align="left">
@@ -15,3 +14,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rollands-bot&show_icons=true&locale=en" alt="rollands-bot" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rollands-bot&" alt="rollands-bot" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rollands-bot&label=Profile%20views&color=0e75b6&style=flat" alt="rollands-bot" /> </p>
