@@ -2,8 +2,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rollands-bot&show_icons=true&locale=en&layout=compact" alt="rollands-bot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rollands-bot&show_icons=true&locale=en" alt="rollands-bot" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rollands-bot&" alt="rollands-bot" /></p>
 
 <h6 align="left">Connect with me:</h6>
