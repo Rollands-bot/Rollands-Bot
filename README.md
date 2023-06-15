@@ -14,10 +14,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rollands-bot&label=Profile%20views&color=0e75b6&style=flat" alt="rollands-bot" /> </p>
 
-# Hi there, I'm Dandi Saputra👨‍💻
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dandi-Saputra-31) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/dandisaputra1) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/Torao-Code) 
-
-# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TORAO-LAW&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=TORAO-LAW&theme=radical&hide_border=true)<br/>
 
